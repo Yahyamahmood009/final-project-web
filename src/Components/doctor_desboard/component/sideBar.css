@@ -1,0 +1,30 @@
+.sidenav {
+    height: 100%;
+    width: auto;
+    position: fixed;
+    z-index: 1;
+    top: auto;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+    box-shadow: rgba(10, 12, 14, 0.2) 5px 5px 10px 5px;;
+    text-align: center;
+  }
+  
+  .sidenav a {
+    padding: 10px 8px 6px 20px;
+    text-decoration:solid;
+    font-size: large;
+    color: dodgerblue;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: rgb(20, 92, 163);
+  }
+.sidenav p{
+    font-size: x-large;
+    color: rgb(20, 92, 163);
+    text-decoration: underline;
+}

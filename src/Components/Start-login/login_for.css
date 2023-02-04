@@ -1,0 +1,59 @@
+.login-main-div2 {
+  width: 90%;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.doctor {
+  width: 30%;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.doc_logo {
+  width: 50%;
+  height: 70%;
+}
+.btn {
+  margin-top: 15px;
+  width: 30%;
+  height: 20%;
+  font-size: 100%;
+  background-color: rgb(18, 85, 152);
+  color: white;
+  border-radius: 20px;
+}
+.btn:hover {
+  color: rgb(18, 85, 152);
+  background-color: white;
+}
+.patient {
+  width: 30%;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pat_logo {
+  width: 60%;
+  height: 70%;
+}
+.admin {
+  width: 30%;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ad_logo {
+  width: 35%;
+  height: 70%;
+}
